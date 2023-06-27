@@ -67,7 +67,7 @@ After complete one round of the mini-game, you have the choice to continue playi
 
 Each mini-game has its own unique rules, which will be explained separately along with instructions on how to play:
 
-**1. Tic Tac Toe**
+`**1. Tic Tac Toe**`
 
 Rules:
 
@@ -93,7 +93,7 @@ the player should key in the respective coordinate to place their symbol on an e
 The AI player will takes their turn and places the symbol.
 
 
-**2. Connect4**
+`**2. Connect4**`
 
 Rules:
 
@@ -119,7 +119,7 @@ The game will check for a winning line after each move to determine if a player 
 If a player successfully connects four discs horizontally, vertically, or diagonally, they win the game.
 If all columns are filled and no player has connected four discs, the game ends in a draw.
 
-**3. Number Guessing**
+`**3. Number Guessing**`
 
 Rules:
 
@@ -143,7 +143,7 @@ The player has a maximum of two chances to guess the correct number without pena
 If the player fails to guess the correct number within the allowed chances, their score will be calculated based on the number of guesses made.
 For each additional guess beyond the allowed chances, the player's score will be deducted by 10%.
 
-**4. Sudoku**
+`**4. Sudoku**`
 
 Rules:
 
@@ -161,7 +161,7 @@ The game ends when you successfully fill in all the empty cells or when you reac
 Your goal is to achieve a score of 70% or higher to pass the game.
 You have a total of 3 chances to pass the game.
 
-**5. Mini Math Game**
+`**5. Mini Math Game**`
 
 Rules:
 
