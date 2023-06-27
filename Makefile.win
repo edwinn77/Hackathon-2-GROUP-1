@@ -1,0 +1,52 @@
+# Project: HACK 2
+# Makefile created by Dev-C++ 5.11
+
+CPP      = g++.exe
+CC       = gcc.exe
+WINDRES  = windres.exe
+OBJ      = game.o main.o linkedlist.o tictactoe.o connect4.o guess_the_number_game.o MathGame.o SudokuGame.o clearconsole.o
+LINKOBJ  = game.o main.o linkedlist.o tictactoe.o connect4.o guess_the_number_game.o MathGame.o SudokuGame.o clearconsole.o
+LIBS     = -L"C:/Users/user/Dev-Cpp/MinGW64/lib" -L"C:/Users/user/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc
+INCS     = -I"C:/Users/user/Dev-Cpp/MinGW64/include" -I"C:/Users/user/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Users/user/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include"
+CXXINCS  = -I"C:/Users/user/Dev-Cpp/MinGW64/include" -I"C:/Users/user/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Users/user/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"C:/Users/user/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"
+BIN      = "HACK 2.exe"
+CXXFLAGS = $(CXXINCS) -std=c++11
+CFLAGS   = $(INCS) -std=c++11
+RM       = rm.exe -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+game.o: game.cpp
+	$(CPP) -c game.cpp -o game.o $(CXXFLAGS)
+
+main.o: main.cpp
+	$(CPP) -c main.cpp -o main.o $(CXXFLAGS)
+
+linkedlist.o: linkedlist.cpp
+	$(CPP) -c linkedlist.cpp -o linkedlist.o $(CXXFLAGS)
+
+tictactoe.o: tictactoe.cpp
+	$(CPP) -c tictactoe.cpp -o tictactoe.o $(CXXFLAGS)
+
+connect4.o: connect4.cpp
+	$(CPP) -c connect4.cpp -o connect4.o $(CXXFLAGS)
+
+guess_the_number_game.o: guess_the_number_game.cpp
+	$(CPP) -c guess_the_number_game.cpp -o guess_the_number_game.o $(CXXFLAGS)
+
+MathGame.o: MathGame.cpp
+	$(CPP) -c MathGame.cpp -o MathGame.o $(CXXFLAGS)
+
+SudokuGame.o: SudokuGame.cpp
+	$(CPP) -c SudokuGame.cpp -o SudokuGame.o $(CXXFLAGS)
+
+clearconsole.o: clearconsole.cpp
+	$(CPP) -c clearconsole.cpp -o clearconsole.o $(CXXFLAGS)
