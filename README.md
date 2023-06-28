@@ -7,6 +7,7 @@
 > 
 > Goh Jia Wei
 > 
+![Blue Brown Modern Meet Our Team Introduction Instagram Post](https://github.com/edwinn77/Hackathon-2-Group-1/assets/117069930/1c59199f-c25c-48a7-9ab9-f4830c10997c)
 
 
 ---
@@ -240,50 +241,62 @@ Similarly, the ifstream object is used to open the file for reading, and the sto
 Overall, the linked list data structure provides a flexible and efficient way to manage the game objects, allowing for easy traversal, modification, and storage/retrieval of game progress. It enables the game to handle an arbitrary number of games and provides a dynamic structure to accommodate changes during runtime.
 
 ### **Main Menu**
-![Screenshot 2023-06-27 091543](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/de61d2fd-be5c-41d4-800c-1a89e26f3b16)
+![Screenshot 2023-06-27 091543](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/b5a04789-5efb-4dd8-8794-45a9632e1cba)
+
 
 ### **Choose which action would like to take**
-![Screenshot 2023-06-27 091654](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/d40b3feb-262e-476c-b6a6-82fd885334b6)
+![Screenshot 2023-06-27 091654](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/528bc9d4-04f6-45b0-ab67-8288b4ab2d7d)
+
 
 ### **Choose which mini game to play**
-![Screenshot 2023-06-27 091911](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/10e5cdcb-e597-4205-a832-a250916d9db4)
+![Screenshot 2023-06-27 091911](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/fde0998f-a8b5-4418-918a-87fb0ae4e596)
+
 
 ### **Tic Tac Toe**
-![Screenshot 2023-06-27 092131](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/861afb68-fc5a-4c7b-ad6e-a3fa76a809a4)
-![Screenshot 2023-06-27 092307](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/4393a730-139c-4c10-8b6a-57b07b568499)
-![Screenshot 2023-06-27 092410](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/bdbf36fa-079e-4304-9741-ce712f0b9eff)
-![Screenshot 2023-06-27 092449](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/42e991f9-8555-49fd-a19b-257ee5c7706b)
+![Screenshot 2023-06-27 092131](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/9be0e8d0-d8ae-4117-8a07-1d6a6747ba55)
+![Screenshot 2023-06-27 092307](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/4ac97b2d-ed2d-42b8-a977-dad160e35ff7)
+![Screenshot 2023-06-27 092410](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/61df649e-9fa4-412a-8970-1f9b72d2f6aa)
+![Screenshot 2023-06-27 092449](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/ecb17728-a8ab-465d-afef-67fc47af80a0)
+
 
 ### **Connect4**
-![Screenshot 2023-06-27 092647](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/102ece5d-cca5-47b2-86b1-c2848555cf41)
-![Screenshot 2023-06-27 092712](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/45bdf3e5-737c-4466-bc41-b35ec9759937)
-![Screenshot 2023-06-27 092903](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/81f0e45c-ce15-4a74-a08a-901ba241041f)
-![Screenshot 2023-06-27 093217](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/c9fe395c-9786-4b3f-a230-9e3ca5c0cad4)
+![Screenshot 2023-06-27 092608](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/d266b443-646e-4bfb-a20a-5a3c8b042e43)
+![Screenshot 2023-06-27 092647](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/4b16177d-4f84-4d9f-b783-972a059924bb)
+![Screenshot 2023-06-27 092712](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/1706adf5-902c-4697-888e-73bbd310c556)
+![Screenshot 2023-06-27 092903](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/4ad8f874-6bbc-45b0-b12a-6626436b60dc)
+
 
 ### **Number Guessing**
-![Screenshot 2023-06-27 093217](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/053a6b06-8dfb-4e52-a50a-7d02da2f1a4b)
-![Screenshot 2023-06-27 093248](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/c2afd813-bdaf-455f-8c70-5f9f2d6c2580)
-![Screenshot 2023-06-27 093328](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/3fb202c3-4b75-4eb5-82cc-3c659f70f5f9)
-![Screenshot 2023-06-27 093341](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/03d23c8f-1bc7-406c-9c47-c0f0b2d91040)
-![Screenshot 2023-06-27 093357](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/412dc460-a58f-473a-b44b-27c8d0cc06d2)
+![Screenshot 2023-06-27 093217](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/9edb744c-4d20-4ec3-8dc2-1708c1b04d61)
+![Screenshot 2023-06-27 093248](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/d88960a8-9ab6-486b-a371-ed840d6e4934)
+![Screenshot 2023-06-27 093328](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/23753ab7-bd53-48fd-8e09-2adbf9ae5a82)
+![Screenshot 2023-06-27 093341](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/2a8ca1c6-fef2-458e-b2a8-dad17e6d1853)
+![Screenshot 2023-06-27 093357](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/a8b56740-710f-45b5-9024-8a4012c7188f)
+
 
 ### **Mini Math Calculation**
-![Screenshot 2023-06-27 093730](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/83ba3587-4523-4bf7-8a27-83e920847cad)
+![Screenshot 2023-06-27 093640](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/fdc850bf-263d-4073-8c89-eb5ad04aa604)
+![Screenshot 2023-06-27 093730](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/6ec1777e-3a9f-43c4-ac89-a5fec0452c2e)
+
 
 ### **Sudoku**
-![Screenshot 2023-06-27 093957](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/b02edbe3-f234-46d7-baaf-24d6e463021d)
-![Screenshot 2023-06-27 094203](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/232eb8a6-4d16-47fc-9bdc-c89a0e62d154)
-![Screenshot 2023-06-27 094305](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/7d4a0ae9-5643-4963-9eb9-3552b982b65f)
-![Screenshot 2023-06-27 094511](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/bb0be505-f2a2-41af-be57-6c18ce0ce295)
-![Screenshot 2023-06-27 095325](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/eebfe3aa-a063-4c6b-892a-5b97ced6fb10)
-![Screenshot 2023-06-27 095356](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/79751464-a775-4b24-ad21-4fdd05ca210a)
-![Screenshot 2023-06-27 095436](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/712918f4-ee41-48f7-b542-57c4446b627b)
+![Screenshot 2023-06-27 093957](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/c93c63b0-6dbf-4204-8d0b-bff72d4e6823)
+![Screenshot 2023-06-27 094203](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/80395db9-413a-4437-82af-4c6972144bdf)
+![Screenshot 2023-06-27 094305](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/5fa3a044-3c84-41d0-8532-3f980c9b796f)
+![Screenshot 2023-06-27 094511](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/290e40ee-1ec1-4a8c-8cd2-4c561bb792aa)
+![Screenshot 2023-06-27 095325](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/b477a2a7-3156-4a17-8196-6657df127b31)
+![Screenshot 2023-06-27 095356](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/35483c60-df18-473d-88c0-e640772ff108)
+![Screenshot 2023-06-27 095420](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/637bd5bf-b2c7-4725-9f7b-8c8860ce1725)
+![Screenshot 2023-06-27 095436](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/e572ca9f-3727-4b1d-a0d7-3618108941d3)
+
 
 ### **Show result (Pass less than 4 mini game)**
-![Screenshot 2023-06-27 095727](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/474afb38-5fb3-4852-80e0-6c873aeaa40d)
+![Screenshot 2023-06-27 095727](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/ca495a9a-e00f-4204-a53d-d3de4cb2074e)
+
 
 ### **Show result (Won 4 mini game or above as well as won the game)**
-![Screenshot 2023-06-27 100010](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/b5b9ab24-b362-4011-b961-77c59cad39da)
-![Screenshot 2023-06-27 100055](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/ea94ac68-4cdc-4d7b-9daf-7cd20b1b4c97)
+![Screenshot 2023-06-27 100010](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/94784236-0619-420e-8ea6-28828862bd21)
+![Screenshot 2023-06-27 100055](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/6b3430ad-c8bc-4bef-8118-17269bae418e)
+
 
 ## Link of game demo video: [Group_1 Demo Video](https://youtu.be/wzFANjqGJAo)
