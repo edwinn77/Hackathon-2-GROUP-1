@@ -7,6 +7,7 @@
 > 
 > Goh Jia Wei
 > 
+![Blue Brown Modern Meet Our Team Introduction Instagram Post (1)](https://github.com/edwinn77/Hackathon-2-Group-1/assets/116961771/bbb0c04b-c7be-4ee9-a66b-31a93ec924ab)
 
 
 ---
